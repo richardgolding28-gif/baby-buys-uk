@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best baby car seats UK
 - Best baby bottles for reducing colic
 - Best nappy bags and changing bags UK
 - Best baby sleeping bags UK
@@ -28,6 +27,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best baby car seats UK (2026-09-30)
 - Best pushchairs and strollers for newborns UK (2026-09-29)
 - Best baby monitors UK (2026-09-28)
 - Best baby carriers UK (2026-09-28)
