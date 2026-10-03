@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best baby sleeping bags UK
 - Best baby swings and bouncers
 - Best breast pumps UK
 - Best baby gates and stair guards
@@ -25,6 +24,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best baby sleeping bags UK (2026-10-03)
 - Best nappy bags and changing bags UK (2026-10-02)
 - Best baby bottles for reducing colic (2026-10-01)
 - Best baby car seats UK (2026-09-30)
